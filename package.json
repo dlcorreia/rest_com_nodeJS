@@ -1,0 +1,22 @@
+{
+  "name": "rest_com_nodejs",
+  "version": "1.0.0",
+  "description": "Repositório criado no curso Rest com NodeJS: API com Express e MySQL da Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlcorreia/rest_com_nodeJS.git"
+  },
+  "author": "Daniel Correia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlcorreia/rest_com_nodeJS/issues"
+  },
+  "homepage": "https://github.com/dlcorreia/rest_com_nodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
